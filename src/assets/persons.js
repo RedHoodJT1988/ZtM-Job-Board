@@ -14896,6 +14896,22 @@ export const data = {
       state: "Delhi",
       country: "India"
     }
+  },
+  {
+    id: uuidv4(),
+    name: "Jonathan Reeves",
+    img: "",
+    links: {
+      website: "https://www.programmingwithjon.com",
+      linkedin: "https://www.linkedin.com/in/jonathan-reeves/",
+      github: "https://github.com/RedHoodJT1988"
+    },
+    jobTitle: "Data Scientist | Machine Learning Engineer | Python Developer",
+    location: {
+      city: "Azle",
+      state: "Texas",
+      country: "USA"
+    }
   }
   ],
 }
